@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michalciolek" alt="michalciolek" /> </p>
 
+<p>A versatile programmer with a rich history from PHP, Java/Kotlin to C# .NET. I excel in unique projects involving hardware integration, reverse engineering, and protocol development. I specialize in distinctive projects,from mobile apps (Android), embedded systems (Linux, build root) to hybrid desktop applications (Winforms+CEF+SignalR+Angular). Beyond work, I maintain a private Linux-based network (Smart Home, VPS, NAS, etc.) and enjoy constructing LEGO MOCs.</p>
+
 - 🔭 I’m currently working on **BrickBuyer**
 
 - 🌱 I’m currently learning **JavaScript**
